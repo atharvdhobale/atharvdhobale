@@ -43,3 +43,15 @@
 ---
 
 ⭐ *Learning step by step and building projects consistently*
+
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvdhobale&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvdhobale&layout=compact&theme=radical)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=atharvdhobale7&color=blue)
+
+
