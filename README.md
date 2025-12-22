@@ -1,7 +1,7 @@
 👋 Hi, I'm Atharv Dhobale  
 
 🎓 BTech CSE Student | DY Patil College of Engineering & Technology, Kolhapur  
-💻 AIML
+💻 AIML 
 💻 Aspiring Full Stack Developer 
 📍 Kolhapur, Maharashtra, India  
 
