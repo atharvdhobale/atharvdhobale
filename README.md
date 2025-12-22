@@ -37,7 +37,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: atharvdhobale098429@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/atharv-dhobale  
+- 💼 LinkedIn: https://www.linkedin.com/in/atharvdhobale  
 
 ---
 
