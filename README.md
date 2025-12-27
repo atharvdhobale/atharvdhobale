@@ -56,13 +56,8 @@ https://www.instagram.com/atharvdhobale_
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvdhobale&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvdhobale&layout=compact&theme=tokyonight)
-
-
-
-
+⭐ *Learning step by step and building projects consistently*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atharvdhobale7&color=blue)
 
