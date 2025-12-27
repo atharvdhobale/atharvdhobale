@@ -44,9 +44,6 @@
 
 ⭐ *Learning step by step and building projects consistently*
 
-
-
-https://www.linkedin.com/in/atharv-dhobale-20b53332b/
 https://www.instagram.com/atharvdhobale_
 
 <p align="left">
