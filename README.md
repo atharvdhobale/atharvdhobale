@@ -46,10 +46,10 @@
 
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvdhobale&show_icons=true&theme=radical)
+https://www.linkedin.com/in/atharv-dhobale-20b53332b/
+https://www.instagram.com/atharvdhobale_
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvdhobale&layout=compact&theme=radical)
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atharvdhobale7&color=blue)
