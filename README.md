@@ -49,6 +49,17 @@
 https://www.linkedin.com/in/atharv-dhobale-20b53332b/
 https://www.instagram.com/atharvdhobale_
 
+<p align="left">
+<a href="https://www.linkedin.com/in/your-username" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+<a href="https://www.instagram.com/your-username" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+</a>
+</p>
+
+
+
 
 
 
